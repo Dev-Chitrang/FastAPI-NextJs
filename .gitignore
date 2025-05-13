@@ -1,0 +1,5 @@
+workout_app.db
+.vscode
+.venv
+__pycache__
+.env
