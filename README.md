@@ -27,7 +27,7 @@ A modern full-stack web application that combines the power of Next.js for the f
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Dev-Chitrang/FastAPI-NextJs.git
 cd nextJs_FastAPI
 ```
 2. Install dependencies
