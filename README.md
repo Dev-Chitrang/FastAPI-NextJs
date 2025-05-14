@@ -53,10 +53,10 @@ cd nextJs_FastAPI
     uvicorn main:app --reload
     ```
 4. Open the frontend Next.js application
-    '''bash
+    ```bash
     http://localhost:3000/login
-    '''
+    ```
     For backend FastAPI docs
-    '''bash
+    ```bash
     http://localhost:8000/docs
     ```
