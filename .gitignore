@@ -3,3 +3,4 @@ workout_app.db
 .venv
 __pycache__
 .env
+workout_app.db
